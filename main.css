@@ -1,0 +1,11 @@
+/* Default styles for webpage */
+body * {
+    box-sizing: border-box;
+    color: blue;
+    font-family: sans-serif;
+}
+
+/* styling for the class "red" */
+.red {
+    color: red;
+}
